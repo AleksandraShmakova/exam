@@ -1,7 +1,6 @@
 import React from 'react'
 import '../App.scss'
 
-import { Button } from './Button';
 import './CasesSectoin.scss';
 import {CasesItems} from './CasesItems';
 
