@@ -1,0 +1,43 @@
+export const CasesItems = [
+    { className: 'CasesSection__item-Ctitle',
+      classImg: 'CasesSection__item-img',
+      text: 'Влияние скорости загрузки страниц сайта на отказы и конверсии. Кейс ускорения...',
+      title: 'Настройки кэширования данных. Апгрейд сервера. Ускорение работы сайта в 30 раз!',
+      classDat:'CasesSection__item-dat',
+      dat: '04.05.2020',
+      img: 'images/image11.jpg',
+      alt: 'one'
+    },
+    { className: 'CasesSection__item-title',
+      classImg: 'CasesSection__item-img',
+      title: 'Использование отчетов Ecommerce в Яндекс.Метрике',
+      classDat:'CasesSection__item-dat',
+      img: 'images/image22.jpg',
+      alt: 'two'
+    },
+    { className: 'CasesSection__item-Btitle',
+      classImg: 'CasesSection__item-Nimg',
+      title: 'Повышение конверсии страницы с формой заявки с применением АВ-тестирования',
+      classDat:'CasesSection__item-Cdat',
+      dat: '24.01.2020',
+      img: 'images/image33.jpg',
+      alt: 'three'
+    },
+    { className: 'CasesSection__item-Btitle',
+      classImg: 'CasesSection__item-Nimg',
+      title: 'Drupal 7: ускорение времени генерации страниц интернет-магазина на 32%',
+      classDat:'CasesSection__item-Cdat',
+      dat: '23.09.2019',
+      img: 'images/image44.jpg',
+      alt: 'four'
+    },
+    { className: 'CasesSection__item-Ctitle',
+      classImg: 'CasesSection__item-img',
+      text: 'Опубликован релиз модуля...',
+      classDat:'CasesSection__item-dat',
+      dat: '22.08.2019',
+      title: 'Обмен товарами и заказами интернет-магазинов на Drupal 7 с 1С: Предприятие, МойСклад, Класс365',
+      img: 'images/image55.jpg',
+      alt: 'five'
+    },
+  ];
